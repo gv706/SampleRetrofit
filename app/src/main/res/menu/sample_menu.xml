@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itmPosts"
+        android:title="Posts"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/itmComments"
+        android:title="Comments"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/itmCreatePost"
+        android:title="Send Post"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/itmUpdatePost"
+        android:title="Update Post"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/itmDeletePost"
+        android:title="Delete Post"
+        app:showAsAction="never"/>
+</menu>
